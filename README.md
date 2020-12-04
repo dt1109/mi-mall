@@ -1,2 +1,5 @@
 # -
-个人项目源代码
+###小米商城项目源代码
+### setUp vscode
+### set liveserver
+### open width liveserver
